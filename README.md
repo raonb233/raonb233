@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://space.bilibili.com/348624600" target="_blank"><img width="100%" src="https://github.com/avilliai/avilliai/blob/main/689D895D76F2E41D84B094651F53BC97.jpg"/></a>
+<a href="https://space.bilibili.com/348624600" target="_blank"><img width="100%" src="https://github.com/raonb233/raonb233/blob/main/_DSC0594.jpg"/></a><br>
 我是丁真珍珠，芝士我的知识库。在库里面你可以听到各种声音[123](https://raonb.netlify.app/)<br>
 
 <div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raonb233&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=#7d7d7d&theme=graywhite" /> 
